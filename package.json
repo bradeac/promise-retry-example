@@ -1,0 +1,23 @@
+{
+  "name": "promise-retry-example",
+  "version": "1.0.0",
+  "description": "Basic example of 'promise-retry' package usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradeac/promise-retry-example.git"
+  },
+  "author": "bradeac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradeac/promise-retry-example/issues"
+  },
+  "homepage": "https://github.com/bradeac/promise-retry-example#readme",
+  "dependencies": {
+    "node-fetch": "^2.5.0",
+    "promise-retry": "^1.1.1"
+  }
+}
