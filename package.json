@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bradeac/promise-retry-example#readme",
   "dependencies": {
-    "node-fetch": "^2.5.0",
+    "node-fetch": "^2.6.1",
     "promise-retry": "^1.1.1"
   }
 }
